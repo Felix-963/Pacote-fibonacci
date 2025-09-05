@@ -1,2 +1,2 @@
 # Pacote-fibonacci
-Eu estou criando um pacote de Fibonacci, e um pacote 
+Eu estou criando um pacote de Fibonacci, e um pacote Fatorial.
